@@ -34,7 +34,7 @@ test:
 
 about:
   home: https://github.com/pygeoops/pygeoops
-  summary: 'Library with some less common or extended spatial functions'
+  summary: Library with some less common or extended spatial functions
   description: |
     PyGeoOps provides some less common or extended spatial algorithms and utility functions.
   license: BSD-3-Clause
