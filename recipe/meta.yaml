@@ -20,7 +20,12 @@ requirements:
     - python {{ python_min }}
     - pip
     - setuptools
+    # Standard dependencies
+    - geopandas-base >=0.12.1
     - numpy
+    - pyproj
+    - shapely >1
+    - topojson
   run:
     - python >={{ python_min }}
     - geopandas-base >=0.12.1
