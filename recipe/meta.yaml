@@ -40,7 +40,7 @@ about:
     PyGeoOps provides some less common or extended spatial algorithms and utility functions.
   license: BSD-3-Clause
   license_family: BSD
-  license_file: LICENSE.txt
+  #license_file: LICENSE.txt
   doc_url: https://pygeoops.readthedocs.io
   dev_url: https://github.com/pygeoops/pygeoops
 
