@@ -1,5 +1,5 @@
 {% set name = "pygeoops" %}
-{% set version = "0.5.0" %}
+{% set version = "0.6.0" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.post1.tar.gz
-  sha256: 5ca23c5c45c8ca21511c81720b2a5b57328c554f17d807099f41c0b1c21a7aa5
+  sha256: 062282752fd6c6f1255fb6b31c702379b1466bdb0fd2579b08d21496df35ac82
 
 build:
   number: 0
